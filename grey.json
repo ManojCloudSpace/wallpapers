@@ -1,0 +1,55 @@
+{
+	"wallpapers": [{
+			"author": "#FAFAFA",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/50.jpg",
+			"name": "50",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/50.jpg"
+		}, {
+			"author": "#F5F5F5",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/100.jpg",
+			"name": "100",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/100.jpg"
+		}, {
+			"author": "#EEEEEE",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/200.jpg",
+			"name": "200",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/200.jpg"
+		}, {
+			"author": "#E0E0E0",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/300.jpg",
+			"name": "300",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/1300.jpg"
+		}, {
+			"author": "#BDBDBD",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/400.jpg",
+			"name": "400",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/400.jpg"
+		}, {
+			"author": "#9E9E9E",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/500.jpg",
+			"name": "500",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/500.jpg"
+		}, {
+			"author": "#757575",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/600.jpg",
+			"name": "600",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/600.jpg"
+		}, {
+			"author": "#616161",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/700.jpg",
+			"name": "700",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/700.jpg"
+		}, {
+			"author": "#424242",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/800.jpg",
+			"name": "800",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/800.jpg"
+		}, {
+			"author": "#212121",
+			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/900.jpg",
+			"name": "900",
+			"thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/900.jpg"
+		}
+
+	]
+}

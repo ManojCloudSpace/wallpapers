@@ -1,0 +1,63 @@
+{
+  "wallpapers": [
+     {
+      "author": "#ECEFF1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/50.jpg",
+      "name": "50",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/50.jpg"
+    },
+	{
+      "author": "#CFD8DC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/100.jpg",
+      "name": "100",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/100.jpg"
+    },  {
+      "author": "#B0BEC5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/200.jpg",
+      "name": "200",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/200.jpg"
+    },
+	  {
+      "author": "#90A4AE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/300.jpg",
+      "name": "300",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/300.jpg"
+    },
+	{
+      "author": "#78909C",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/400.jpg",
+      "name": "400",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/400.jpg"
+    },
+	{
+      "author": "#607D8B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/500.jpg",
+      "name": "500",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/500.jpg"
+    },  {
+      "author": "#546E7A",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/600.jpg",
+      "name": "600",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/600.jpg"
+    },
+	  {
+      "author": "#455A64",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/700.jpg",
+      "name": "700",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/700.jpg"
+    },
+	{
+      "author": "#37474F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/800.jpg",
+      "name": "800",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/800.jpg"
+    },
+	{
+      "author": "#263238",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/900.jpg",
+      "name": "900",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/900.jpg"
+    }
+	
+]
+}
