@@ -1,4 +1,320 @@
 {
+	"oem": [
+    {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_26.jpg",
+      "name": "Oneplus 5 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_26.jpg"
+    },
+    {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_27.jpg",
+      "name": "Oneplus 5 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_27.jpg"
+    },
+    {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_28.jpg",
+      "name": "Oneplus 5 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_28.jpg"
+    },
+    {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_29.jpg",
+      "name": "Oneplus 5 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_29.jpg"
+    },
+    {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_30.jpg",
+      "name": "Oneplus 5 5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_30.jpg"
+    },
+     {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_31.jpg",
+      "name": "Oneplus 5 6",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_31.jpg"
+    },
+     {
+      "author": "Oneplus",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_32.jpg",
+      "name": "Oneplus 5 7",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_32.jpg"
+    },
+    {
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(3).png",
+      "name": "Galaxy s8 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(3)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(4).png",
+      "name": "Galaxy s8 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(4)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(5).png",
+      "name": "Galaxy s8 5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(5)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(6).png",
+      "name": "Galaxy s8 6",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(6)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(13).png",
+      "name": "Galaxy s8 13",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(13)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(14).png",
+      "name": "Galaxy s8 14",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(14)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(15).png",
+      "name": "Galaxy s8 15",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(15)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(16).png",
+      "name": "Galaxy s8 16",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(16)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(17).png",
+      "name": "Galaxy s8 17",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(17)t.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(18).png",
+      "name": "Galaxy s8 18",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(18)t.png"
+    },
+     {
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(2).png",
+      "name": "Galaxy s8 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(2)t.png"
+    },
+    {
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(0).png",
+      "name": "Galaxy s8 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(0)t.png"
+    },
+    {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(1).png",
+      "name": "LG G6 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(1)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(2).png",
+      "name": "LG G6 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(2)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(3).png",
+      "name": "LG G6 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(3)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(4).png",
+      "name": "LG G6 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(4)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(5).png",
+      "name": "LG G6 5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(5)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(6).png",
+      "name": "LG G6 6",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(6)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(7).png",
+      "name": "LG G6 7",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(7)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(8).png",
+      "name": "LG G6 8",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(8)t.png"
+    },
+     {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(9).png",
+      "name": "LG G6 9",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(9)t.png"
+    },
+    {
+      "author": "LG",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(10).png",
+      "name": "LG G6 10",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(10)t.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp001_droidviews.png",
+      "name": "Google pixel 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp001_droidviews.png"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp002_droidviews.png",
+      "name": "Google pixel 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp002_droidviews.png"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp003_droidviews.png",
+      "name": "Google pixel 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp003_droidviews.png"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp004_droidviews.jpg",
+      "name": "Google pixel 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp004_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp005_droidviews.jpg",
+      "name": "Google pixel 5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp005_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp006_droidviews.jpg",
+      "name": "Google pixel 6",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp006_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp007_droidviews.jpg",
+      "name": "Google pixel 7",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp007_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp008_droidviews.jpg",
+      "name": "Google pixel 8",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp008_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp009_droidviews.jpg",
+      "name": "Google pixel 9",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp009_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp010_droidviews.jpg",
+      "name": "Google pixel 10",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp010_droidviews.jpg"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp001_droidviews.jpg",
+      "name": "Google pixel 11",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp001_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp002_droidviews.jpg",
+      "name": "Google pixel 12",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp002_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp003_droidviews.jpg",
+      "name": "Google pixel 13",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp003_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp004_droidviews.jpg",
+      "name": "Google pixel 14",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp004_droidviews.jpg"
+    },
+     {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp005_droidviews.jpg",
+      "name": "Google pixel 15",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp005_droidviews.jpg"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/pixel-default_wallpaper_droidviews.png",
+      "name": "Google pixel 16",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/pixel-default_wallpaper_droidviews.png"
+    },
+     {
+      "author": "Sony",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%201.png",
+      "name": "Xperia XZ compact 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%201t.png"
+    },
+     {
+      "author": "Sony",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%202.png",
+      "name": "Xperia XZ compact 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%202t.png"
+    },
+     {
+      "author": "Sony",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%203.png",
+      "name": "Xperia XZ compact 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%203t.png"
+    },
+     {
+      "author": "Sony",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%204.png",
+      "name": "Xperia XZ compact 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%204t.png"
+    },
+     {
+      "author": "Nextbit",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%201.jpg",
+      "name": "Robin 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%201t.jpg"
+    },{
+      "author": "Nextbit",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%202.png",
+      "name": "Robin 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%202t.png"
+    },
+    {
+      "author": "Nextbit",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%203.png",
+      "name": "Robin 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%203t.png"
+    },
+    {
+      "author": "Nextbit",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%204.png",
+      "name": "Robin 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%204t.png"
+    },
+    {
+      "author": "Nextbit",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%205.png",
+      "name": "Robin 5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%205t.png"
+    }
+	],
 	"amber": [{
 			"author": "#FFF8E1",
 			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg",
