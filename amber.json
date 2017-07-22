@@ -1,5 +1,133 @@
 {
 	"oem": [
+		{
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_00.jpg",
+      "name": "HTC U11 - 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_00.jpg"
+    },{
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_01.jpg",
+      "name": "HTC U11 - 2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_01.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_02.jpg",
+      "name": "HTC U11 - 3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_02.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_03.jpg",
+      "name": "HTC U11 - 4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_03.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_04.jpg",
+      "name": "HTC U11 - 5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_04.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_05.jpg",
+      "name": "HTC U11 - 6",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_05.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_06.jpg",
+      "name": "HTC U11 - 7",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_06.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_07.jpg",
+      "name": "HTC U11 - 8",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_07.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_08.jpg",
+      "name": "HTC U11 - 9",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_08.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_09.jpg",
+      "name": "HTC U11 - 10",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_09.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_10.jpg",
+      "name": "HTC U11 - 11",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_10.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_11.jpg",
+      "name": "HTC U11 - 12",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_11.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_12.jpg",
+      "name": "HTC U11 - 13",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_12.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_13.jpg",
+      "name": "HTC U11 - 14",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_13.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_14.jpg",
+      "name": "HTC U11 - 15",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_14.jpg"
+    },
+    
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_15.jpg",
+      "name": "HTC U11 - 16",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_15.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_16.jpg",
+      "name": "HTC U11 - 17",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_16.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_17.jpg",
+      "name": "HTC U11 - 18",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_17.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_18.jpg",
+      "name": "HTC U11 - 19",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_18.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_19.jpg",
+      "name": "HTC U11 - 20",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_19.jpg"
+    },
+    {
+      "author": "HTC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_20.jpg",
+      "name": "HTC U11 - 21",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_20.jpg"
+    },
+		
+		
     {
       "author": "Oneplus",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_26.jpg",
