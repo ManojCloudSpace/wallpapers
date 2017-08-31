@@ -1,5 +1,75 @@
 {
-	"oem": [
+	"oem": [{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note81.png",
+      "name": "Note 8 - 1",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note81.png"
+    },{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note82.png",
+      "name": "Note 8 - 2",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note82.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note83.png",
+      "name": "Note 8 - 3",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note83.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note84.png",
+      "name": "Note 8 - 4",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note84.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note85.png",
+      "name": "Note 8 - 5",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note85.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note86.png",
+      "name": "Note 8 - 6",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note86.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note87.png",
+      "name": "Note 8 - 7",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note87.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note88.png",
+      "name": "Note 8 - 8",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note88.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note89.png",
+      "name": "Note 8 - 9",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note89.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note810.png",
+      "name": "Note 8 - 10",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note810.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note811.png",
+      "name": "Note 8 - 11",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note811.png"
+    },
+	{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note812.png",
+      "name": "Note 8 - 12",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note812.png"
+    },
 		{
       "author": "HTC",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_00.jpg",
