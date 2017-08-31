@@ -1,5 +1,11 @@
 {
-	"oem": [{
+	"oem": [
+		{
+      "author": "Samsung",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note81.png",
+      "name": "Note 8 - 1",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note81.png"
+    },{
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v301.jpg",
       "name": "V30 - 1",
