@@ -1,221 +1,366 @@
 {
-	"oem": [
-		{
+  "oem": [
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%201.png",
       "name": "Pixel-3_1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%201.png"
     },
-		{
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%202.png",
+      "name": "Pixel-3_2",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%202.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%203.png",
+      "name": "Pixel-3_3",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%203.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%204.png",
+      "name": "Pixel-3_4",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%204.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%205.png",
+      "name": "Pixel-3_5",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%205.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%206.png",
+      "name": "Pixel-3_6",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%206.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%207.png",
+      "name": "Pixel-3_7",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%207.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%208.png",
+      "name": "Pixel-3_8",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%208.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%209.png",
+      "name": "Pixel-3_9",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%209.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2010.png",
+      "name": "Pixel-3_10",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2010.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2011.png",
+      "name": "Pixel-3_11",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2011.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2012.png",
+      "name": "Pixel-3_12",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2012.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2013.png",
+      "name": "Pixel-3_13",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2013.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2014.png",
+      "name": "Pixel-3_14",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2014.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2015.png",
+      "name": "Pixel-3_15",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2015.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2016.png",
+      "name": "Pixel-3_16",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2016.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2017.png",
+      "name": "Pixel-3_17",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2017.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2018.png",
+      "name": "Pixel-3_18",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2018.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2019.png",
+      "name": "Pixel-3_19",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2019.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2020.png",
+      "name": "Pixel-3_20",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2020.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2021.png",
+      "name": "Pixel-3_21",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2021.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2022.png",
+      "name": "Pixel-3_22",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2022.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2023.png",
+      "name": "Pixel-3_23",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2023.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2024.png",
+      "name": "Pixel-3_24",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2024.png"
+    },
+    {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2025.png",
+      "name": "Pixel-3_25",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%2025.png"
+    },
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v301.jpg",
       "name": "V30 - 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v301.jpg"
-    },{
+    },
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v302.jpg",
       "name": "V30 - 2",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v302.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v303.jpg",
       "name": "V30 - 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v303.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v304.jpg",
       "name": "V30 - 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v304.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v305.jpg",
       "name": "V30 - 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v305.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v306.jpg",
       "name": "V30 - 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v306.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v307.jpg",
       "name": "V30 - 7",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v307.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v308.jpg",
       "name": "V30 - 8",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v308.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v309.jpg",
       "name": "V30 - 9",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v309.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3010.jpg",
       "name": "V30 - 10",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3010.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3011.jpg",
       "name": "V30 - 11",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3011.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3012.jpg",
       "name": "V30 - 12",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3012.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3013.jpg",
       "name": "V30 - 13",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3013.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3014.jpg",
       "name": "V30 - 14",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3014.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3015.jpg",
       "name": "V30 - 15",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3015.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3016.jpg",
       "name": "V30 - 16",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3016.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3017.jpg",
       "name": "V30 - 17",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3017.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3018.jpg",
       "name": "V30 - 18",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3018.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3019.jpg",
       "name": "V30 - 19",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3019.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3020.jpg",
       "name": "V30 - 20",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3020.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3021.jpg",
       "name": "V30 - 21",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3021.jpg"
     },
-	{
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3022.jpg",
       "name": "V30 - 22",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v3022.jpg"
     },
-	
-		
-		{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note81.png",
       "name": "Note 8 - 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note81.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note82.png",
       "name": "Note 8 - 2",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note82.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note83.png",
       "name": "Note 8 - 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note83.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note84.png",
       "name": "Note 8 - 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note84.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note85.png",
       "name": "Note 8 - 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note85.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note86.png",
       "name": "Note 8 - 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note86.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note87.png",
       "name": "Note 8 - 7",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note87.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note88.png",
       "name": "Note 8 - 8",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note88.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note89.png",
       "name": "Note 8 - 9",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note89.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note810.png",
       "name": "Note 8 - 10",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note810.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note811.png",
       "name": "Note 8 - 11",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note811.png"
     },
-	{
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note812.png",
       "name": "Note 8 - 12",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/note812.png"
     },
-		{
+    {
       "author": "HTC",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_00.jpg",
       "name": "HTC U11 - 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_00.jpg"
-    },{
+    },
+    {
       "author": "HTC",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_01.jpg",
       "name": "HTC U11 - 2",
@@ -299,7 +444,6 @@
       "name": "HTC U11 - 15",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_14.jpg"
     },
-    
     {
       "author": "HTC",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_15.jpg",
@@ -336,8 +480,6 @@
       "name": "HTC U11 - 21",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpapers_20.jpg"
     },
-		
-		
     {
       "author": "Oneplus",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_26.jpg",
@@ -368,13 +510,13 @@
       "name": "Oneplus 5 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_30.jpg"
     },
-     {
+    {
       "author": "Oneplus",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_31.jpg",
       "name": "Oneplus 5 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_31.jpg"
     },
-     {
+    {
       "author": "Oneplus",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper_32.jpg",
       "name": "Oneplus 5 7",
@@ -385,53 +527,62 @@
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(3).png",
       "name": "Galaxy s8 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(3)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(4).png",
       "name": "Galaxy s8 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(4)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(5).png",
       "name": "Galaxy s8 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(5)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(6).png",
       "name": "Galaxy s8 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(6)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(13).png",
       "name": "Galaxy s8 13",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(13)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(14).png",
       "name": "Galaxy s8 14",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(14)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(15).png",
       "name": "Galaxy s8 15",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(15)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(16).png",
       "name": "Galaxy s8 16",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(16)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(17).png",
       "name": "Galaxy s8 17",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(17)t.png"
-    },{
+    },
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(18).png",
       "name": "Galaxy s8 18",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(18)t.png"
     },
-     {
+    {
       "author": "Samsung",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Galaxy%20S8%20wallpaper%20(2).png",
       "name": "Galaxy s8 2",
@@ -449,49 +600,49 @@
       "name": "LG G6 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(1)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(2).png",
       "name": "LG G6 2",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(2)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(3).png",
       "name": "LG G6 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(3)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(4).png",
       "name": "LG G6 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(4)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(5).png",
       "name": "LG G6 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(5)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(6).png",
       "name": "LG G6 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(6)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(7).png",
       "name": "LG G6 7",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(7)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(8).png",
       "name": "LG G6 8",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(8)t.png"
     },
-     {
+    {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(9).png",
       "name": "LG G6 9",
@@ -503,67 +654,79 @@
       "name": "LG G6 10",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LG%20G6%20Stock%20Wallpapers/LG%20G6%20Stock%20Wallpapers%20(10)t.png"
     },
-		{
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper1.jpg",
       "name": "BB Keyone 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper1.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper2.jpg",
       "name": "BB Keyone 2",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper2.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper3.jpg",
       "name": "BB Keyone 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper3.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper4.jpg",
       "name": "BB Keyone 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper4.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper5.jpg",
       "name": "BB Keyone 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper5.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper6.jpg",
       "name": "BB Keyone 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper6.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper7.jpg",
       "name": "BB Keyone 7",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper7.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper8.jpg",
       "name": "BB Keyone 8",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper8.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper9.jpg",
       "name": "BB Keyone 9",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper9.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper10.jpg",
       "name": "BB Keyone 10",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper10.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper11.jpg",
       "name": "BB Keyone 11",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper11.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper12.jpg",
       "name": "BB Keyone 12",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper12.jpg"
-    },{
+    },
+    {
       "author": "Blackberry",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/wallpaper13.jpg",
       "name": "BB Keyone 13",
@@ -575,55 +738,55 @@
       "name": "Google pixel 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp001_droidviews.png"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp002_droidviews.png",
       "name": "Google pixel 2",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp002_droidviews.png"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp003_droidviews.png",
       "name": "Google pixel 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp003_droidviews.png"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp004_droidviews.jpg",
       "name": "Google pixel 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp004_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp005_droidviews.jpg",
       "name": "Google pixel 5",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp005_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp006_droidviews.jpg",
       "name": "Google pixel 6",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp006_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp007_droidviews.jpg",
       "name": "Google pixel 7",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp007_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp008_droidviews.jpg",
       "name": "Google pixel 8",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp008_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp009_droidviews.jpg",
       "name": "Google pixel 9",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp009_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/j_wp010_droidviews.jpg",
       "name": "Google pixel 10",
@@ -635,25 +798,25 @@
       "name": "Google pixel 11",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp001_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp002_droidviews.jpg",
       "name": "Google pixel 12",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp002_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp003_droidviews.jpg",
       "name": "Google pixel 13",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp003_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp004_droidviews.jpg",
       "name": "Google pixel 14",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp004_droidviews.jpg"
     },
-     {
+    {
       "author": "Google",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/z_wp005_droidviews.jpg",
       "name": "Google pixel 15",
@@ -665,36 +828,37 @@
       "name": "Google pixel 16",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/pixel-default_wallpaper_droidviews.png"
     },
-     {
+    {
       "author": "Sony",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%201.png",
       "name": "Xperia XZ compact 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%201t.png"
     },
-     {
+    {
       "author": "Sony",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%202.png",
       "name": "Xperia XZ compact 2",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%202t.png"
     },
-     {
+    {
       "author": "Sony",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%203.png",
       "name": "Xperia XZ compact 3",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%203t.png"
     },
-     {
+    {
       "author": "Sony",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%204.png",
       "name": "Xperia XZ compact 4",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Sony%20Xperia%20XZ%20and%20X%20Compact%20stock%20wallpapers%204t.png"
     },
-     {
+    {
       "author": "Nextbit",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%201.jpg",
       "name": "Robin 1",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%201t.jpg"
-    },{
+    },
+    {
       "author": "Nextbit",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Nextbit%20Robin%20stock%20wallpapers%202.png",
       "name": "Robin 2",
@@ -838,1324 +1002,1503 @@
       "name": "Mate 20",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/huawei-mate-9-wallpaper-020.jpg"
     },
-		{
+    {
       "author": "Huawei",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/huawei-mate-9-wallpaper.jpg",
       "name": "Mate 21",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/huawei-mate-9-wallpaper.jpg"
     }
-	],
-	"amber": [{
-			"author": "#FFF8E1",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg"
-		}, {
-			"author": "#FFECB3",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/100.jpg"
-		}, {
-			"author": "#FFE082",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/200.jpg"
-		}, {
-			"author": "#FFD54F",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/300.jpg"
-		}, {
-			"author": "#FFCA28",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/400.jpg"
-		}, {
-			"author": "#FFC107",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/500.jpg"
-		}, {
-			"author": "#FFB300",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/600.jpg"
-		}, {
-			"author": "#FFA000",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/700.jpg"
-		}, {
-			"author": "#FF8F00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/800.jpg"
-		}, {
-			"author": "#FF6F00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg"
-		}, {
-			"author": "#FFE57F",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A100.jpg"
-		}, {
-			"author": "#FFD740",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A200.jpg"
-		}, {
-			"author": "#FFC400",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A400.jpg"
-		}, {
-			"author": "#FFAB00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A700.jpg"
-		}
-
-	],
- "brown": [
-     {
+  ],
+  "amber": [
+    {
+      "author": "#FFF8E1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg"
+    },
+    {
+      "author": "#FFECB3",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/100.jpg"
+    },
+    {
+      "author": "#FFE082",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/200.jpg"
+    },
+    {
+      "author": "#FFD54F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/300.jpg"
+    },
+    {
+      "author": "#FFCA28",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/400.jpg"
+    },
+    {
+      "author": "#FFC107",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/500.jpg"
+    },
+    {
+      "author": "#FFB300",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/600.jpg"
+    },
+    {
+      "author": "#FFA000",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/700.jpg"
+    },
+    {
+      "author": "#FF8F00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/800.jpg"
+    },
+    {
+      "author": "#FF6F00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/50.jpg"
+    },
+    {
+      "author": "#FFE57F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A100.jpg"
+    },
+    {
+      "author": "#FFD740",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A200.jpg"
+    },
+    {
+      "author": "#FFC400",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A400.jpg"
+    },
+    {
+      "author": "#FFAB00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/AMBER/A700.jpg"
+    }
+  ],
+  "brown": [
+    {
       "author": "#EFEBE9",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/50.jpg",
       "name": "50",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/50.jpg"
     },
-	{
+    {
       "author": "#D7CCC8",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/100.jpg",
       "name": "100",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/100.jpg"
-    },  {
+    },
+    {
       "author": "#BCAAA4",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/200.jpg",
       "name": "200",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/200.jpg"
     },
-	  {
+    {
       "author": "#A1887F",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/300.jpg",
       "name": "300",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/300.jpg"
     },
-	{
+    {
       "author": "#8D6E63",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/400.jpg",
       "name": "400",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/400.jpg"
     },
-	{
+    {
       "author": "#795548",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/500.jpg",
       "name": "500",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/500.jpg"
-    },  {
+    },
+    {
       "author": "#6D4C41",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/600.jpg",
       "name": "600",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/600.jpg"
     },
-	  {
+    {
       "author": "#5D4037",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/700.jpg",
       "name": "700",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/700.jpg"
     },
-	{
+    {
       "author": "#4E342E",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/800.jpg",
       "name": "800",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/800.jpg"
     },
-	{
+    {
       "author": "#3E2723",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/900.jpg",
       "name": "900",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BROWN/900.jpg"
     }
-	
-],"blue": [{
-			"author": "#E3F2FD",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/50.jpg"
-		}, {
-			"author": "#BBDEFB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/100.jpg"
-		}, {
-			"author": "#90CAF9",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/200.jpg"
-		}, {
-			"author": "#64B5F6",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/300.jpg"
-		}, {
-			"author": "#42A5F5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/400.jpg"
-		}, {
-			"author": "#2196F3",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/500.jpg"
-		}, {
-			"author": "#1E88E5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/600.jpg"
-		}, {
-			"author": "#1976D2",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/700.jpg"
-		}, {
-			"author": "#1565C0",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/800.jpg"
-		}, {
-			"author": "#0D47A1",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/900.jpg"
-		}, {
-			"author": "#82B1FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A100.jpg"
-		}, {
-			"author": "#448AFF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A200.jpg"
-		}, {
-			"author": "#2979FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A400.jpg"
-		}, {
-			"author": "#2962FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A700.jpg"
-		}
-
-	],
-	
+  ],
+  "blue": [
+    {
+      "author": "#E3F2FD",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/50.jpg"
+    },
+    {
+      "author": "#BBDEFB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/100.jpg"
+    },
+    {
+      "author": "#90CAF9",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/200.jpg"
+    },
+    {
+      "author": "#64B5F6",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/300.jpg"
+    },
+    {
+      "author": "#42A5F5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/400.jpg"
+    },
+    {
+      "author": "#2196F3",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/500.jpg"
+    },
+    {
+      "author": "#1E88E5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/600.jpg"
+    },
+    {
+      "author": "#1976D2",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/700.jpg"
+    },
+    {
+      "author": "#1565C0",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/800.jpg"
+    },
+    {
+      "author": "#0D47A1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/900.jpg"
+    },
+    {
+      "author": "#82B1FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A100.jpg"
+    },
+    {
+      "author": "#448AFF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A200.jpg"
+    },
+    {
+      "author": "#2979FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A400.jpg"
+    },
+    {
+      "author": "#2962FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE/A700.jpg"
+    }
+  ],
   "bluegray": [
-     {
+    {
       "author": "#ECEFF1",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/50.jpg",
       "name": "50",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/50.jpg"
     },
-	{
+    {
       "author": "#CFD8DC",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/100.jpg",
       "name": "100",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/100.jpg"
-    },  {
+    },
+    {
       "author": "#B0BEC5",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/200.jpg",
       "name": "200",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/200.jpg"
     },
-	  {
+    {
       "author": "#90A4AE",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/300.jpg",
       "name": "300",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/300.jpg"
     },
-	{
+    {
       "author": "#78909C",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/400.jpg",
       "name": "400",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/400.jpg"
     },
-	{
+    {
       "author": "#607D8B",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/500.jpg",
       "name": "500",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/500.jpg"
-    },  {
+    },
+    {
       "author": "#546E7A",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/600.jpg",
       "name": "600",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/600.jpg"
     },
-	  {
+    {
       "author": "#455A64",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/700.jpg",
       "name": "700",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/700.jpg"
     },
-	{
+    {
       "author": "#37474F",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/800.jpg",
       "name": "800",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/800.jpg"
     },
-	{
+    {
       "author": "#263238",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/900.jpg",
       "name": "900",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLUE%20GREY/900.jpg"
     }
-	
-],
-
- 
+  ],
   "cyan": [
-     {
+    {
       "author": "#E0F7FA",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/50.jpg",
       "name": "50",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/50.jpg"
     },
-	{
+    {
       "author": "#B2EBF2",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/100.jpg",
       "name": "100",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/100.jpg"
-    },  {
+    },
+    {
       "author": "#80DEEA",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/200.jpg",
       "name": "200",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/200.jpg"
     },
-	  {
+    {
       "author": "#4DD0E1",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/300.jpg",
       "name": "300",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/300.jpg"
     },
-	{
+    {
       "author": "#26C6DA",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/400.jpg",
       "name": "400",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/400.jpg"
     },
-	{
+    {
       "author": "#00BCD4",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/500.jpg",
       "name": "500",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/500.jpg"
-    },  {
+    },
+    {
       "author": "#00ACC1",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/600.jpg",
       "name": "600",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/600.jpg"
     },
-	  {
+    {
       "author": "#0097A7",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/700.jpg",
       "name": "700",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/700.jpg"
     },
-	{
+    {
       "author": "#00838F",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/800.jpg",
       "name": "800",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/800.jpg"
     },
-	{
+    {
       "author": "#006064",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/900.jpg",
       "name": "900",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/900.jpg"
-    },  
-	{
+    },
+    {
       "author": "#84FFFF",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A100.jpg",
       "name": "A100",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A100.jpg"
     },
-	  {
+    {
       "author": "#18FFFF",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A200.jpg",
       "name": "A200",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A200.jpg"
     },
-	{
+    {
       "author": "#00E5FF",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A400.jpg",
       "name": "A400",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A400.jpg"
     },
-	  {
+    {
       "author": "#00B8D4",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A700.jpg",
       "name": "A700",
       "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/CYAN/A700.jpg"
     }
-	
-],
-
-	"deeporange": [{
-			"author": "#FBE9E7",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/50.jpg"
-		}, {
-			"author": "#FFCCBC",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/100.jpg"
-		}, {
-			"author": "#FFAB91",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/200.jpg"
-		}, {
-			"author": "#FF8A65",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/300.jpg"
-		}, {
-			"author": "#FF7043",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/400.jpg"
-		}, {
-			"author": "#FF5722",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/500.jpg"
-		}, {
-			"author": "#F4511E",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/600.jpg"
-		}, {
-			"author": "#E64A19",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/700.jpg"
-		}, {
-			"author": "#D84315",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/800.jpg"
-		}, {
-			"author": "#BF360C",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/900.jpg"
-		}, {
-			"author": "#FF9E80",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A100.jpg"
-		}, {
-			"author": "#FF6E40",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A200.jpg"
-		}, {
-			"author": "#FF3D00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A400.jpg"
-		}, {
-			"author": "#DD2C00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A700.jpg"
-		}
-
-	],
-
-
-	"deeppurple": [{
-			"author": "#EDE7F6",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/50.jpg"
-		}, {
-			"author": "#D1C4E9",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/100.jpg"
-		}, {
-			"author": "#B39DDB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/200.jpg"
-		}, {
-			"author": "#9575CD",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/300.jpg"
-		}, {
-			"author": "#7E57C2",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/400.jpg"
-		}, {
-			"author": "#673AB7",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/500.jpg"
-		}, {
-			"author": "#5E35B1",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/600.jpg"
-		}, {
-			"author": "#512DA8",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/700.jpg"
-		}, {
-			"author": "#4527A0",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/800.jpg"
-		}, {
-			"author": "#311B92",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/900.jpg"
-		}, {
-			"author": "#B388FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A100.jpg"
-		}, {
-			"author": "#7C4DFF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A200.jpg"
-		}, {
-			"author": "#651FFF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A400.jpg"
-		}, {
-			"author": "#6200EA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A700.jpg"
-		}
-
-	],
-
-	"green": [{
-			"author": "#E8F5E9",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/50.jpg"
-		}, {
-			"author": "#C8E6C9",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/100.jpg"
-		}, {
-			"author": "#A5D6A7",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/200.jpg"
-		}, {
-			"author": "#81C784",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/300.jpg"
-		}, {
-			"author": "#66BB6A",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/400.jpg"
-		}, {
-			"author": "#4CAF50",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/500.jpg"
-		}, {
-			"author": "#43A047",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/600.jpg"
-		}, {
-			"author": "#388E3C",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/700.jpg"
-		}, {
-			"author": "#2E7D32",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/800.jpg"
-		}, {
-			"author": "#1B5E20",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/900.jpg"
-		}, {
-			"author": "#B9F6CA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A100.jpg"
-		}, {
-			"author": "#69F0AE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A200.jpg"
-		}, {
-			"author": "#00E676",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A400.jpg"
-		}, {
-			"author": "#00C853",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A700.jpg"
-		}
-
-	],
-	"grey": [{
-			"author": "#FAFAFA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/50.jpg"
-		}, {
-			"author": "#F5F5F5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/100.jpg"
-		}, {
-			"author": "#EEEEEE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/200.jpg"
-		}, {
-			"author": "#E0E0E0",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/300.jpg"
-		}, {
-			"author": "#BDBDBD",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/400.jpg"
-		}, {
-			"author": "#9E9E9E",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/500.jpg"
-		}, {
-			"author": "#757575",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/600.jpg"
-		}, {
-			"author": "#616161",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/700.jpg"
-		}, {
-			"author": "#424242",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/800.jpg"
-		}, {
-			"author": "#212121",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/900.jpg"
-		}
-
-	],
-	"indigo": [{
-			"author": "#E8EAF6",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/50.jpg"
-		}, {
-			"author": "#C5CAE9",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/100.jpg"
-		}, {
-			"author": "#9FA8DA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/200.jpg"
-		}, {
-			"author": "#7986CB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/300.jpg"
-		}, {
-			"author": "#5C6BC0",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/400.jpg"
-		}, {
-			"author": "#3F51B5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/500.jpg"
-		}, {
-			"author": "#3949AB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/600.jpg"
-		}, {
-			"author": "#303F9F",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/700.jpg"
-		}, {
-			"author": "#283593",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/800.jpg"
-		}, {
-			"author": "#1A237E",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/900.jpg"
-		}, {
-			"author": "#8C9EFF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A100.jpg"
-		}, {
-			"author": "#536DFE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A200.jpg"
-		}, {
-			"author": "#3D5AFE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A400.jpg"
-		}, {
-			"author": "#304FFE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A700.jpg"
-		}
-
-	],
-	"lightblue": [{
-			"author": "#E1F5FE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/50.jpg"
-		}, {
-			"author": "#B3E5FC",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/100.jpg"
-		}, {
-			"author": "#81D4FA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/200.jpg"
-		}, {
-			"author": "#4FC3F7",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/300.jpg"
-		}, {
-			"author": "#29B6F6",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/400.jpg"
-		}, {
-			"author": "#03A9F4",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/500.jpg"
-		}, {
-			"author": "#039BE5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/600.jpg"
-		}, {
-			"author": "#0288D1",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/700.jpg"
-		}, {
-			"author": "#0277BD",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/800.jpg"
-		}, {
-			"author": "#01579B",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/900.jpg"
-		}, {
-			"author": "#80D8FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A100.jpg"
-		}, {
-			"author": "#40C4FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A200.jpg"
-		}, {
-			"author": "#00B0FF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A400.jpg"
-		}, {
-			"author": "#0091EA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A700.jpg"
-		}
-
-	],
-	"lightgreen": [{
-			"author": "#F1F8E9",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/50.jpg"
-		}, {
-			"author": "#DCEDC8",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/100.jpg"
-		}, {
-			"author": "#C5E1A5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/200.jpg"
-		}, {
-			"author": "#AED581",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/300.jpg"
-		}, {
-			"author": "#9CCC65",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/400.jpg"
-		}, {
-			"author": "#8BC34A",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/500.jpg"
-		}, {
-			"author": "#7CB342",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/600.jpg"
-		}, {
-			"author": "#689F38",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/700.jpg"
-		}, {
-			"author": "#558B2F",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/800.jpg"
-		}, {
-			"author": "#33691E",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/900.jpg"
-		}, {
-			"author": "#CCFF90",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A100.jpg"
-		}, {
-			"author": "#B2FF59",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A200.jpg"
-		}, {
-			"author": "#76FF03",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A400.jpg"
-		}, {
-			"author": "#64DD17",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A700.jpg"
-		}
-
-	],
-	"lime": [{
-			"author": "#F9FBE7",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/50.jpg"
-		}, {
-			"author": "#F0F4C3",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/100.jpg"
-		}, {
-			"author": "#E6EE9C",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/200.jpg"
-		}, {
-			"author": "#DCE775",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/300.jpg"
-		}, {
-			"author": "#D4E157",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/400.jpg"
-		}, {
-			"author": "#CDDC39",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/500.jpg"
-		}, {
-			"author": "#C0CA33",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/600.jpg"
-		}, {
-			"author": "#AFB42B",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/700.jpg"
-		}, {
-			"author": "#9E9D24",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/800.jpg"
-		}, {
-			"author": "#827717",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/900.jpg"
-		}, {
-			"author": "#F4FF81",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A100.jpg"
-		}, {
-			"author": "#EEFF41",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A200.jpg"
-		}, {
-			"author": "#C6FF00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A400.jpg"
-		}, {
-			"author": "#AEEA00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A700.jpg"
-		}
-
-	],
-	
-	"orange": [{
-			"author": "#FFF3E0",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/50.jpg"
-		}, {
-			"author": "#FFE0B2",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/100.jpg"
-		}, {
-			"author": "#FFCC80",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/200.jpg"
-		}, {
-			"author": "#FFB74D",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/300.jpg"
-		}, {
-			"author": "#FFA726",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/400.jpg"
-		}, {
-			"author": "#FF9800",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/500.jpg"
-		}, {
-			"author": "#FB8C00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/600.jpg"
-		}, {
-			"author": "#F57C00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/700.jpg"
-		}, {
-			"author": "#EF6C00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/800.jpg"
-		}, {
-			"author": "#E65100",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/900.jpg"
-		}, {
-			"author": "#FFD180",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A100.jpg"
-		}, {
-			"author": "#FFAB40",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A200.jpg"
-		}, {
-			"author": "#FF9100",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A400.jpg"
-		}, {
-			"author": "#FF6D00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A700.jpg"
-		}
-
-	],
-	
-	"pink": [{
-			"author": "#FCE4EC",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/50.jpg"
-		}, {
-			"author": "#F8BBD0",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/100.jpg"
-		}, {
-			"author": "#F48FB1",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/200.jpg"
-		}, {
-			"author": "#F06292",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/300.jpg"
-		}, {
-			"author": "#EC407A",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/400.jpg"
-		}, {
-			"author": "#E91E63",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/500.jpg"
-		}, {
-			"author": "#D81B60",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/600.jpg"
-		}, {
-			"author": "#C2185B",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/700.jpg"
-		}, {
-			"author": "#AD1457",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/800.jpg"
-		}, {
-			"author": "#880E4F",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/900.jpg"
-		}, {
-			"author": "#FF80AB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A100.jpg"
-		}, {
-			"author": "#FF4081",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A200.jpg"
-		}, {
-			"author": "#F50057",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A400.jpg"
-		}, {
-			"author": "#C51162",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A700.jpg"
-		}
-
-	],
-	
-	"red": [{
-			"author": "#FFEBEE",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/50.jpg"
-		}, {
-			"author": "#FFCDD2",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/100.jpg"
-		}, {
-			"author": "#EF9A9A",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/200.jpg"
-		}, {
-			"author": "#E57373",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/300.jpg"
-		}, {
-			"author": "#EF5350",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/400.jpg"
-		}, {
-			"author": "#F44336",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/500.jpg"
-		}, {
-			"author": "#E53935",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/600.jpg"
-		}, {
-			"author": "#D32F2F",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/700.jpg"
-		}, {
-			"author": "#C62828",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/800.jpg"
-		}, {
-			"author": "#B71C1C",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/900.jpg"
-		}, {
-			"author": "#FF8A80",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A100.jpg"
-		}, {
-			"author": "#FF5252",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A200.jpg"
-		}, {
-			"author": "#FF1744",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A400.jpg"
-		}, {
-			"author": "#D50000",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A700.jpg"
-		}
-
-	],
-	
-	"teal": [{
-			"author": "#E0F2F1",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/50.jpg"
-		}, {
-			"author": "#B2DFDB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/100.jpg"
-		}, {
-			"author": "#80CBC4",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/200.jpg"
-		}, {
-			"author": "#4DB6AC",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/300.jpg"
-		}, {
-			"author": "#26A69A",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/400.jpg"
-		}, {
-			"author": "#009688",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/500.jpg"
-		}, {
-			"author": "#00897B",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/600.jpg"
-		}, {
-			"author": "#00796B",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/700.jpg"
-		}, {
-			"author": "#00695C",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/800.jpg"
-		}, {
-			"author": "#004D40",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/900.jpg"
-		}, {
-			"author": "#A7FFEB",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A100.jpg"
-		}, {
-			"author": "#64FFDA",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A200.jpg"
-		}, {
-			"author": "#1DE9B6",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A400.jpg"
-		}, {
-			"author": "#00BFA5",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A700.jpg"
-		}
-
-	],
-	"yellow": [{
-			"author": "#FFFDE7",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/50.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/50.jpg"
-		}, {
-			"author": "#FFF9C4",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/100.jpg",
-			"name": "100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/100.jpg"
-		}, {
-			"author": "#FFF59D",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/200.jpg",
-			"name": "200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/200.jpg"
-		}, {
-			"author": "#FFF176",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/300.jpg",
-			"name": "300",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/300.jpg"
-		}, {
-			"author": "#FFEE58",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/400.jpg",
-			"name": "400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/400.jpg"
-		}, {
-			"author": "#FFEB3B",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/500.jpg",
-			"name": "500",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/500.jpg"
-		}, {
-			"author": "#FDD835",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/600.jpg",
-			"name": "600",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/600.jpg"
-		}, {
-			"author": "#FBC02D",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/700.jpg",
-			"name": "700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/700.jpg"
-		}, {
-			"author": "#F9A825",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/800.jpg",
-			"name": "800",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/800.jpg"
-		}, {
-			"author": "#F57F17",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/900.jpg",
-			"name": "900",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/900.jpg"
-		}, {
-			"author": "#FFFF8D",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A100.jpg",
-			"name": "A100",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A100.jpg"
-		}, {
-			"author": "#FFFF00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A200.jpg",
-			"name": "A200",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A200.jpg"
-		}, {
-			"author": "#FFEA00",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A400.jpg",
-			"name": "A400",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A400.jpg"
-		}, {
-			"author": "#FFD600",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A700.jpg",
-			"name": "A700",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A700.jpg"
-		}
-
-	],
-	
-	"white": [{
-			"author": "#FFFFFF",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/WHITE/WHITE.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/WHITE/WHITE.jpg"
-		}
-
-	],
-	
-	
-	
-	"black": [{
-			"author": "#000000",
-			"url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLACK/BLACK.jpg",
-			"name": "50",
-			"thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLACK/BLACK.jpg"
-		}
-
-	]
-	
+  ],
+  "deeporange": [
+    {
+      "author": "#FBE9E7",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/50.jpg"
+    },
+    {
+      "author": "#FFCCBC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/100.jpg"
+    },
+    {
+      "author": "#FFAB91",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/200.jpg"
+    },
+    {
+      "author": "#FF8A65",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/300.jpg"
+    },
+    {
+      "author": "#FF7043",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/400.jpg"
+    },
+    {
+      "author": "#FF5722",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/500.jpg"
+    },
+    {
+      "author": "#F4511E",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/600.jpg"
+    },
+    {
+      "author": "#E64A19",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/700.jpg"
+    },
+    {
+      "author": "#D84315",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/800.jpg"
+    },
+    {
+      "author": "#BF360C",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/900.jpg"
+    },
+    {
+      "author": "#FF9E80",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A100.jpg"
+    },
+    {
+      "author": "#FF6E40",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A200.jpg"
+    },
+    {
+      "author": "#FF3D00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A400.jpg"
+    },
+    {
+      "author": "#DD2C00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20ORANGE/A700.jpg"
+    }
+  ],
+  "deeppurple": [
+    {
+      "author": "#EDE7F6",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/50.jpg"
+    },
+    {
+      "author": "#D1C4E9",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/100.jpg"
+    },
+    {
+      "author": "#B39DDB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/200.jpg"
+    },
+    {
+      "author": "#9575CD",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/300.jpg"
+    },
+    {
+      "author": "#7E57C2",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/400.jpg"
+    },
+    {
+      "author": "#673AB7",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/500.jpg"
+    },
+    {
+      "author": "#5E35B1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/600.jpg"
+    },
+    {
+      "author": "#512DA8",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/700.jpg"
+    },
+    {
+      "author": "#4527A0",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/800.jpg"
+    },
+    {
+      "author": "#311B92",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/900.jpg"
+    },
+    {
+      "author": "#B388FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A100.jpg"
+    },
+    {
+      "author": "#7C4DFF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A200.jpg"
+    },
+    {
+      "author": "#651FFF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A400.jpg"
+    },
+    {
+      "author": "#6200EA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/DEEP%20PURPLE/A700.jpg"
+    }
+  ],
+  "green": [
+    {
+      "author": "#E8F5E9",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/50.jpg"
+    },
+    {
+      "author": "#C8E6C9",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/100.jpg"
+    },
+    {
+      "author": "#A5D6A7",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/200.jpg"
+    },
+    {
+      "author": "#81C784",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/300.jpg"
+    },
+    {
+      "author": "#66BB6A",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/400.jpg"
+    },
+    {
+      "author": "#4CAF50",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/500.jpg"
+    },
+    {
+      "author": "#43A047",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/600.jpg"
+    },
+    {
+      "author": "#388E3C",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/700.jpg"
+    },
+    {
+      "author": "#2E7D32",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/800.jpg"
+    },
+    {
+      "author": "#1B5E20",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/900.jpg"
+    },
+    {
+      "author": "#B9F6CA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A100.jpg"
+    },
+    {
+      "author": "#69F0AE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A200.jpg"
+    },
+    {
+      "author": "#00E676",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A400.jpg"
+    },
+    {
+      "author": "#00C853",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREEN/A700.jpg"
+    }
+  ],
+  "grey": [
+    {
+      "author": "#FAFAFA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/50.jpg"
+    },
+    {
+      "author": "#F5F5F5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/100.jpg"
+    },
+    {
+      "author": "#EEEEEE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/200.jpg"
+    },
+    {
+      "author": "#E0E0E0",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/300.jpg"
+    },
+    {
+      "author": "#BDBDBD",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/400.jpg"
+    },
+    {
+      "author": "#9E9E9E",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/500.jpg"
+    },
+    {
+      "author": "#757575",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/600.jpg"
+    },
+    {
+      "author": "#616161",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/700.jpg"
+    },
+    {
+      "author": "#424242",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/800.jpg"
+    },
+    {
+      "author": "#212121",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/GREY/900.jpg"
+    }
+  ],
+  "indigo": [
+    {
+      "author": "#E8EAF6",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/50.jpg"
+    },
+    {
+      "author": "#C5CAE9",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/100.jpg"
+    },
+    {
+      "author": "#9FA8DA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/200.jpg"
+    },
+    {
+      "author": "#7986CB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/300.jpg"
+    },
+    {
+      "author": "#5C6BC0",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/400.jpg"
+    },
+    {
+      "author": "#3F51B5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/500.jpg"
+    },
+    {
+      "author": "#3949AB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/600.jpg"
+    },
+    {
+      "author": "#303F9F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/700.jpg"
+    },
+    {
+      "author": "#283593",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/800.jpg"
+    },
+    {
+      "author": "#1A237E",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/900.jpg"
+    },
+    {
+      "author": "#8C9EFF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A100.jpg"
+    },
+    {
+      "author": "#536DFE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A200.jpg"
+    },
+    {
+      "author": "#3D5AFE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A400.jpg"
+    },
+    {
+      "author": "#304FFE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/INDIGO/A700.jpg"
+    }
+  ],
+  "lightblue": [
+    {
+      "author": "#E1F5FE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/50.jpg"
+    },
+    {
+      "author": "#B3E5FC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/100.jpg"
+    },
+    {
+      "author": "#81D4FA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/200.jpg"
+    },
+    {
+      "author": "#4FC3F7",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/300.jpg"
+    },
+    {
+      "author": "#29B6F6",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/400.jpg"
+    },
+    {
+      "author": "#03A9F4",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/500.jpg"
+    },
+    {
+      "author": "#039BE5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/600.jpg"
+    },
+    {
+      "author": "#0288D1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/700.jpg"
+    },
+    {
+      "author": "#0277BD",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/800.jpg"
+    },
+    {
+      "author": "#01579B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/900.jpg"
+    },
+    {
+      "author": "#80D8FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A100.jpg"
+    },
+    {
+      "author": "#40C4FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A200.jpg"
+    },
+    {
+      "author": "#00B0FF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A400.jpg"
+    },
+    {
+      "author": "#0091EA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20BLUE/A700.jpg"
+    }
+  ],
+  "lightgreen": [
+    {
+      "author": "#F1F8E9",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/50.jpg"
+    },
+    {
+      "author": "#DCEDC8",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/100.jpg"
+    },
+    {
+      "author": "#C5E1A5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/200.jpg"
+    },
+    {
+      "author": "#AED581",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/300.jpg"
+    },
+    {
+      "author": "#9CCC65",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/400.jpg"
+    },
+    {
+      "author": "#8BC34A",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/500.jpg"
+    },
+    {
+      "author": "#7CB342",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/600.jpg"
+    },
+    {
+      "author": "#689F38",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/700.jpg"
+    },
+    {
+      "author": "#558B2F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/800.jpg"
+    },
+    {
+      "author": "#33691E",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/900.jpg"
+    },
+    {
+      "author": "#CCFF90",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A100.jpg"
+    },
+    {
+      "author": "#B2FF59",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A200.jpg"
+    },
+    {
+      "author": "#76FF03",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A400.jpg"
+    },
+    {
+      "author": "#64DD17",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIGHT%20GREEN/A700.jpg"
+    }
+  ],
+  "lime": [
+    {
+      "author": "#F9FBE7",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/50.jpg"
+    },
+    {
+      "author": "#F0F4C3",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/100.jpg"
+    },
+    {
+      "author": "#E6EE9C",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/200.jpg"
+    },
+    {
+      "author": "#DCE775",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/300.jpg"
+    },
+    {
+      "author": "#D4E157",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/400.jpg"
+    },
+    {
+      "author": "#CDDC39",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/500.jpg"
+    },
+    {
+      "author": "#C0CA33",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/600.jpg"
+    },
+    {
+      "author": "#AFB42B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/700.jpg"
+    },
+    {
+      "author": "#9E9D24",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/800.jpg"
+    },
+    {
+      "author": "#827717",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/900.jpg"
+    },
+    {
+      "author": "#F4FF81",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A100.jpg"
+    },
+    {
+      "author": "#EEFF41",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A200.jpg"
+    },
+    {
+      "author": "#C6FF00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A400.jpg"
+    },
+    {
+      "author": "#AEEA00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/LIME/A700.jpg"
+    }
+  ],
+  "orange": [
+    {
+      "author": "#FFF3E0",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/50.jpg"
+    },
+    {
+      "author": "#FFE0B2",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/100.jpg"
+    },
+    {
+      "author": "#FFCC80",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/200.jpg"
+    },
+    {
+      "author": "#FFB74D",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/300.jpg"
+    },
+    {
+      "author": "#FFA726",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/400.jpg"
+    },
+    {
+      "author": "#FF9800",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/500.jpg"
+    },
+    {
+      "author": "#FB8C00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/600.jpg"
+    },
+    {
+      "author": "#F57C00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/700.jpg"
+    },
+    {
+      "author": "#EF6C00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/800.jpg"
+    },
+    {
+      "author": "#E65100",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/900.jpg"
+    },
+    {
+      "author": "#FFD180",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A100.jpg"
+    },
+    {
+      "author": "#FFAB40",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A200.jpg"
+    },
+    {
+      "author": "#FF9100",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A400.jpg"
+    },
+    {
+      "author": "#FF6D00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/ORANGE/A700.jpg"
+    }
+  ],
+  "pink": [
+    {
+      "author": "#FCE4EC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/50.jpg"
+    },
+    {
+      "author": "#F8BBD0",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/100.jpg"
+    },
+    {
+      "author": "#F48FB1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/200.jpg"
+    },
+    {
+      "author": "#F06292",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/300.jpg"
+    },
+    {
+      "author": "#EC407A",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/400.jpg"
+    },
+    {
+      "author": "#E91E63",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/500.jpg"
+    },
+    {
+      "author": "#D81B60",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/600.jpg"
+    },
+    {
+      "author": "#C2185B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/700.jpg"
+    },
+    {
+      "author": "#AD1457",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/800.jpg"
+    },
+    {
+      "author": "#880E4F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/900.jpg"
+    },
+    {
+      "author": "#FF80AB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A100.jpg"
+    },
+    {
+      "author": "#FF4081",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A200.jpg"
+    },
+    {
+      "author": "#F50057",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A400.jpg"
+    },
+    {
+      "author": "#C51162",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/PINK/A700.jpg"
+    }
+  ],
+  "red": [
+    {
+      "author": "#FFEBEE",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/50.jpg"
+    },
+    {
+      "author": "#FFCDD2",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/100.jpg"
+    },
+    {
+      "author": "#EF9A9A",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/200.jpg"
+    },
+    {
+      "author": "#E57373",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/300.jpg"
+    },
+    {
+      "author": "#EF5350",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/400.jpg"
+    },
+    {
+      "author": "#F44336",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/500.jpg"
+    },
+    {
+      "author": "#E53935",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/600.jpg"
+    },
+    {
+      "author": "#D32F2F",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/700.jpg"
+    },
+    {
+      "author": "#C62828",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/800.jpg"
+    },
+    {
+      "author": "#B71C1C",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/900.jpg"
+    },
+    {
+      "author": "#FF8A80",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A100.jpg"
+    },
+    {
+      "author": "#FF5252",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A200.jpg"
+    },
+    {
+      "author": "#FF1744",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A400.jpg"
+    },
+    {
+      "author": "#D50000",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/RED/A700.jpg"
+    }
+  ],
+  "teal": [
+    {
+      "author": "#E0F2F1",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/50.jpg"
+    },
+    {
+      "author": "#B2DFDB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/100.jpg"
+    },
+    {
+      "author": "#80CBC4",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/200.jpg"
+    },
+    {
+      "author": "#4DB6AC",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/300.jpg"
+    },
+    {
+      "author": "#26A69A",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/400.jpg"
+    },
+    {
+      "author": "#009688",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/500.jpg"
+    },
+    {
+      "author": "#00897B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/600.jpg"
+    },
+    {
+      "author": "#00796B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/700.jpg"
+    },
+    {
+      "author": "#00695C",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/800.jpg"
+    },
+    {
+      "author": "#004D40",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/900.jpg"
+    },
+    {
+      "author": "#A7FFEB",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A100.jpg"
+    },
+    {
+      "author": "#64FFDA",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A200.jpg"
+    },
+    {
+      "author": "#1DE9B6",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A400.jpg"
+    },
+    {
+      "author": "#00BFA5",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/TEAL/A700.jpg"
+    }
+  ],
+  "yellow": [
+    {
+      "author": "#FFFDE7",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/50.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/50.jpg"
+    },
+    {
+      "author": "#FFF9C4",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/100.jpg",
+      "name": "100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/100.jpg"
+    },
+    {
+      "author": "#FFF59D",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/200.jpg",
+      "name": "200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/200.jpg"
+    },
+    {
+      "author": "#FFF176",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/300.jpg",
+      "name": "300",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/300.jpg"
+    },
+    {
+      "author": "#FFEE58",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/400.jpg",
+      "name": "400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/400.jpg"
+    },
+    {
+      "author": "#FFEB3B",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/500.jpg",
+      "name": "500",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/500.jpg"
+    },
+    {
+      "author": "#FDD835",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/600.jpg",
+      "name": "600",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/600.jpg"
+    },
+    {
+      "author": "#FBC02D",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/700.jpg",
+      "name": "700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/700.jpg"
+    },
+    {
+      "author": "#F9A825",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/800.jpg",
+      "name": "800",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/800.jpg"
+    },
+    {
+      "author": "#F57F17",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/900.jpg",
+      "name": "900",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/900.jpg"
+    },
+    {
+      "author": "#FFFF8D",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A100.jpg",
+      "name": "A100",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A100.jpg"
+    },
+    {
+      "author": "#FFFF00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A200.jpg",
+      "name": "A200",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A200.jpg"
+    },
+    {
+      "author": "#FFEA00",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A400.jpg",
+      "name": "A400",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A400.jpg"
+    },
+    {
+      "author": "#FFD600",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A700.jpg",
+      "name": "A700",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/YELLOW/A700.jpg"
+    }
+  ],
+  "white": [
+    {
+      "author": "#FFFFFF",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/WHITE/WHITE.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/WHITE/WHITE.jpg"
+    }
+  ],
+  "black": [
+    {
+      "author": "#000000",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLACK/BLACK.jpg",
+      "name": "50",
+      "thumb": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/BLACK/BLACK.jpg"
+    }
+  ]
 }
