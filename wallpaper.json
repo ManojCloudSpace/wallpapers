@@ -1,5 +1,13 @@
 {
-  "wallpapers": [{
+  "wallpapers": [
+	  
+	  {
+      "author": "Google",
+      "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%201.png",
+      "name": "Pixel-3_1",
+      "thumbnail": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/Google%20Pixel%203%20Wallpaper%201.png"
+    },  
+	  {
       "author": "LG",
       "url": "https://raw.githubusercontent.com/ManojCloudSpace/wallpapers/master/v301.jpg",
       "name": "V30 - 1",
